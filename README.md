@@ -1,31 +1,25 @@
-Hi 👋 I am Kaan 
-=========================
+<h1 align="center">Hi 👋, I'm 💨Kaan (づ￣ 3￣)づ</h1>
+<h3 align="center">Jr Developer Candidate</h3>
 
-Jr Developer
-------------
 ![](https://c.tenor.com/2gVj3kH-OSIAAAAC/spongebob-welcome.gif)
 
-I have graduated from METU Civil Engineering Department<br>I've been learning to code for almost 2 years. Here is my coding kingdom (a small one)
+- 🔭 I’m currently working on **Data Science and mostly Backend Development**
 
-*   🌍  I'm based in Ankara / Turkey
-*   🧠  I'm learning Data Science and mostly Backend Development
-*   ⚡  I love SpongeBob Squarepants, just fyi
+- 🌱 I’m currently learning **Numpy, Pandas, Matplotlib**
 
-### Skills<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
-                    
-### Socials
+- ⚡ Fun fact **I love SpongeBob Squarepants, may be as you have noticed**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/users/hollowM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/kaantann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>            
-<a href="https://www.linkedin.com/in/kaantan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>                  
-<a href="https://www.twitter.com/kaanthedev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://twitter.com/kaanthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaanthedev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaantan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaantan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kaantann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaantann" height="30" width="40" /></a>
+</p>
 
-### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/kaantann"><img src="https://github-readme-stats.vercel.app/api?username=kaantann&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kaantann's GitHub stats" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Support Me
-<a href="https://www.buymeacoffee.com/kaantan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kaantan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kaantan" /></a></p><br><br>
+
