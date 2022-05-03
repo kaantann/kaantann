@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 💨Kaan (づ￣ 3￣)づ</h1>
-<h3 align="center">Jr Developer Candidate</h3>
+<h3 align="center">Jr .NET Developer</h3>
 
 ![](https://c.tenor.com/2gVj3kH-OSIAAAAC/spongebob-welcome.gif)
 
