@@ -4,7 +4,7 @@
 ![](https://c.tenor.com/2gVj3kH-OSIAAAAC/spongebob-welcome.gif)
 
 
-- 🔭 I’m currently working on **my-myself?**
+- 🔭 I’m currently working on **some top secret projects ψ(._. )>**
 
 - 🌱 I’m currently learning **C# and .NET Framework**
 
