@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm 💨Kaan (づ￣ 3￣)づ</h1>
-<h3 align="center">Jr .NET Developer</h3>
+<h1 align="center">Hi 👋, I'm Kaan (づ￣ 3￣)づ</h1>
+<h3 align="center">.NET Developer</h3>
 
 ![](https://c.tenor.com/2gVj3kH-OSIAAAAC/spongebob-welcome.gif)
 
 
 - 🔭 I’m currently working on **some top secret projects ψ(._. )>**
 
-- 🌱 I’m currently learning **C# and .NET Framework**
+- 🌱 I’m currently learning **Software Architectures, Advanced C#, Clean Code && Design Patterns**
 
 - ⚡ Fun fact **I love SpongeBob Squarepants, may be as you have noticed**
+
+![](https://www.youtube.com/watch?v=RVmG_d3HKBA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
