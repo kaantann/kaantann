@@ -2,9 +2,9 @@
 
 #### A Software Developer by day ☼ and an Indie Hacker by night ☾
 
-Developer at [Prota Software](https://www.protasoftware.com);<br>
-Hacking in [TryHackMe](tryhackme.com/p/hollowM#badges-achieved);<br>
-Chillin' at [kamp.us](https://discord.gg/kampus);<br>
+Developer at [Prota Software](https://www.protasoftware.com) ;<br>
+Hacking in [TryHackMe](tryhackme.com/p/hollowM#badges-achieved) ;<br>
+Chillin' at [kamp.us](https://discord.gg/kampus) ;<br>
 
 - ⚙️ I use daily: `.cs`, `.vb`, `.html`, `.sh`
 - 🌍 I'm mostly active within the **kamp.us**
