@@ -31,7 +31,7 @@ namespace GitHub
     }
   }
   
-  class SoftwareDeveloper
+  internal class SoftwareDeveloper
   {
     public SoftwareDeveloper()
     {
