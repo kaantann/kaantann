@@ -6,7 +6,7 @@ Developer at [Prota Software](https://www.protasoftware.com) ;<br>
 Hacking in [TryHackMe](https://www.tryhackme.com/p/hollowM) ;<br>
 Chillin' at [kamp.us](https://discord.gg/kampus) ;<br>
 
-- ⚙️ I use daily: `.cs`, `.vb`, `.html`, `.sh`
+- ⚙️ I use daily: `.cs`, `.vb`, `.py`, `.html`, `.sh`
 - 🌍 I'm mostly active within the **kamp.us**
 - 💬 `ping` me about **design**, **architecture**, **development** <br> <br> 
 
