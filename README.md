@@ -8,7 +8,7 @@ Chillin' at [kamp.us](https://discord.gg/kampus) ;<br>
 
 - ⚙️ I use daily: `.cs`, `.vb`, `.py`, `.html`, `.sh`
 - 🌍 I'm mostly active within the **kamp.us**
-- 💬 `ping` me about **design**, **architecture**, **development** <br> <br> 
+- 💬 `ping` me about **design**, **architecture**, **development** <br> <br> <br> 
 
 
 <details closed>
