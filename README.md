@@ -5,7 +5,7 @@
 Developer at [Prota Software](https://www.protasoftware.com) ;<br>
 Hacking in [TryHackMe](https://www.tryhackme.com/p/hollowM) ;<br>
 
-- ⚙️ I use daily: `.cs`, `.vb`, `.rs`, `.cpp`, `.sh`
+- ⚙️ I use daily: `.cs`, `.vb`, `.py`, `.cpp`, `.sh`
 - 💬 `ping` me about **design**, **architecture**, **development** <br> <br> <br> 
 
 
