@@ -1,4 +1,6 @@
+
 ### Hello there 👋
+![](https://c.tenor.com/fETrhA2_QgQAAAAC/tenor.gif)
 
 #### A Software Developer by day ☼ and an Indie Hacker by night ☾
 
