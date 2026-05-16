@@ -6,11 +6,10 @@
 Developer at [Prota Software](https://www.protasoftware.com) ;<br>
 
 - ⚙️ I use daily: `.cs`, `.vb`, `.cpp`
-- 💬 `ping` me about **design**, **architecture**, **development** <br> <br> <br> 
+- 💬 `ping` me about **design**, **architecture**, **development** <br> <br>
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaantann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaantann&layout=compact)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
