@@ -1,57 +1,13 @@
 
-### Hello there 👋
-![](https://c.tenor.com/fETrhA2_QgQAAAAC/tenor.gif)
+<!--  ![](https://c.tenor.com/fETrhA2_QgQAAAAC/tenor.gif)  -->
 
-#### A Software Developer by day ☼ and an Indie Hacker by night ☾
+#### A Software Developer by day and always been
 
 Developer at [Prota Software](https://www.protasoftware.com) ;<br>
-Hacking in [TryHackMe](https://www.tryhackme.com/p/hollowM) ;<br>
 
 - ⚙️ I use daily: `.cs`, `.vb`, `.cpp`
 - 💬 `ping` me about **design**, **architecture**, **development** <br> <br> <br> 
 
-
-<details closed>
-  <summary><b> 🌅 Click me to be saluted! </summary></b></summary>
-
-
-
-```cs
-using System;
-using System.Collections.Generic;
-
-namespace GitHub
-{
-  class Program
-  {
-    public static void Main(string[] args)
-    {
-      var kaan = new SoftwareDeveloper();
-      kaan.Salute();
-    }
-  }
-  
-  internal class SoftwareDeveloper
-  {
-    public SoftwareDeveloper()
-    {
-      _yearsOfExperience = 3; 
-      _languageSpoken = new List<string>() {"en_US","tr_TR"};
-    }
-  
-    private List<string> _languageSpoken;
-    private Int16 _yearsOfExperience;
-
-    public void Salute()
-    {
-      Console.WriteLine("Thanks for dropping by, hope you can find some of my work interesting.");
-    }
-  }
-}
-
-```
-
-</details></details>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaantann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
