@@ -3,7 +3,7 @@
 
 #### A Software Developer by day and always been
 
-Developer at [Prota Software](https://www.protasoftware.com) ;<br>
+Developer at ... ;<br>
 
 - ⚙️ I use daily: `.cs`, `.vb`, `.cpp`
 - 💬 `ping` me about **design**, **architecture**, **development** <br> <br>
