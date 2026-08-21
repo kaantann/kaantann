@@ -3,7 +3,7 @@
 
 #### A Software Developer by day and always been
 
-Software Engineer at Netcad ;<br>
+Software Engineer at ![Netcad](https://www.netcad.com/) ;<br>
 
 - ⚙️ I use daily: `.cs`, `.vb`, `.cpp`
 - 💬 `ping` me about **design**, **architecture**, **development** <br> <br>
